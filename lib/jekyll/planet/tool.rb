@@ -49,6 +49,7 @@ title:      "#{item.title}"
 created_at: #{item.published}
 author:     #{item.feed.title}
 layout:     post
+original_link: "#{item.url}"
 ---
 EOS
 

@@ -8,7 +8,7 @@ Hoe.spec 'jekyll-planet' do
   self.summary = "jekyll-planet - add articles, blogs to your site via web feeds (and planet pluto)"
   self.description = summary
 
-  self.urls    = ['https://github.com/feedreader/jekyll-planet']
+  self.urls    = ['https://github.com/virresh/jekyll-planet']
 
   self.author  = 'Gerald Bauer'
   self.email   = 'feedreader@googlegroups.com'
